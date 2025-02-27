@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); */
+@font-face {
+    font-family: 'Druk Wide';
+    src: url('/public\Druk Wide Family\DrukWide-Bold-Trial.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Druk Condensed';
+    src: url('/public\Druk Condensed Family\DrukCond-Super-Trial.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
